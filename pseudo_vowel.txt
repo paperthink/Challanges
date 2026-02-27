@@ -1,0 +1,8 @@
+we are going to use for loop to execute this operation.
+
+create a variable(input)
+create a forloop
+let j iterate:
+    j = variable(each string)
+
+we will assign what are what
