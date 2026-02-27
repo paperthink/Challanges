@@ -1,1 +1,4 @@
 create a variable 
+take user input
+
+do for loop
