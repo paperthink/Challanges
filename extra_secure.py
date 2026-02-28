@@ -3,9 +3,17 @@
 user = str(input('Enter ur ID(Any ID) : '))
 l = len(user)
 #for h in user:
-if l >=2:
-    u = "x" * (l-2)
+for o in user:
+        print(o, end="")
+        if o == user[l//2]:
+            break
+                
+            
 
-print( )
+for s in range(l- l//2):
+        print("*", end="")
+
+
+
 
 
