@@ -13,6 +13,8 @@ for o in user:
 for s in range(l- l//2):
         print("*", end="")
 
+print()
+
 
 
 
