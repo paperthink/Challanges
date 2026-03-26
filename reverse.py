@@ -1,7 +1,9 @@
 def reverse(input_text):
+    revers = ""
     for letter in input_text:
-        input_text = letter + input_text
+        revers = letter + revers
 
-    return input_text
+    return revers
 
 a = reverse(input("Enter any word: "))
+print(a)
